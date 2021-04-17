@@ -1,6 +1,6 @@
 # Escopo para um futuro portfólio mais bonito
 
-### Esse era a ideia original para meu portfólio, achei que ficou bonito, mas não ficou muito prático e acabei opitando por algo mais simples.
+### Esse era a ideia original para meu portfólio, achei que ficou bonito, mas não ficou muito prático e acabei optando por algo mais simples.
 
 ### Utilizei apenas html e css puro 
 
